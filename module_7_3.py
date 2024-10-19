@@ -82,7 +82,7 @@ print(finder2.count('teXT')) # 4 слова teXT в тексте всего
 # print(finder1.find('if'))
 # print(finder1.count('if'))
 
-# finder1 = WordsFinder('Mother Goose - Monday’s Child.txt',)
+# finder1 = WordsFinder('Mother Goose - Monday’s Child.txt')
 # print(finder1.get_all_words())
 # print(finder1.find('Child'))
 # print(finder1.count('Child'))
